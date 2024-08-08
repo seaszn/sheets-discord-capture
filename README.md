@@ -72,9 +72,3 @@ If successful, there should now be a dist/bundle.gs file in your app script proj
 ## Configurate Commands
 - Create a new file in the app script project called commands.gs and copy all the contents of the command.js file over into that file.
 - Go to the script properties and set the WEBHOOK_URL property to your webhook URL.
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
