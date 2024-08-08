@@ -13,7 +13,7 @@ To get setup quickly, create a new empty google sheet.
 ## Project configuration
 
 1. Create a simple table in your sheet like the image below
-![App Screenshot]([https://user-images.githubusercontent.com/744973/54870967-a9135780-4d6a-11e9-991c-9f57a508bdf0.gif](https://github.com/seaszn/sheets-discord-capture/blob/main/images/Screenshot%202024-08-08%20141616.png?raw=true))
+![App Screenshot](https://github.com/seaszn/sheets-discord-capture/blob/main/images/Screenshot%202024-08-08%20141616.png?raw=true)
 
 
 2. In the header of the table, enter the following formula:
