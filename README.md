@@ -15,7 +15,6 @@ To get setup quickly, create a new empty google sheet.
 1. Create a simple table in your sheet like the image below
 ![App Screenshot](https://github.com/seaszn/sheets-discord-capture/blob/main/images/Screenshot%202024-08-08%20141616.png?raw=true)
 
-
 2. In the header of the table, enter the following formula:
 
 ```excel
@@ -26,15 +25,16 @@ The range notation can be customized to include all the configurations below. En
 3. Fill in the columns as follows:
 - Configure the name of the table yourself.
 - For the range column, enter the following formula and replace the range with your desired range:
+- 
+```excel
+=tableRange(C10:D14)
+```
 
 4. If everything is correct, you should see something like this:
-![App Screenshot](https://user-images.githubusercontent.com/744973/54870967-a9135780-4d6a-11e9-991c-9f57a508bdf0.gif)
-
+![App Screenshot](https://github.com/seaszn/sheets-discord-capture/blob/main/images/Screenshot%202024-08-08%20141644.png?raw=true)
 
 ### Running the Export Function
 After setting up the sheet, you can call the exportSheetMedia function either within the script or from the trigger page.
-
-
 
 ## Development setup
 - Download the Node.js installer from the [official website](https://nodejs.org/).
