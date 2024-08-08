@@ -25,7 +25,7 @@ The range notation can be customized to include all the configurations below. En
 3. Fill in the columns as follows:
 - Configure the name of the table yourself.
 - For the range column, enter the following formula and replace the range with your desired range:
-- 
+  
 ```excel
 =tableRange(C10:D14)
 ```
